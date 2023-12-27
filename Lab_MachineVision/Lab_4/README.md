@@ -12,6 +12,10 @@
 
 *Пример нарушений:*
 
+![Detect](./img/Detect.png)
+
+*Зафиксированные нарушения:*
+
 ![First](./img/First.jpg)
 
 ![Second](./img/Second.jpg)
